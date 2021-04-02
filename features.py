@@ -12,7 +12,6 @@ from nltk.tokenize import RegexpTokenizer
 import nltk.word_tokenize
 
 from main import args
-from config import DATA_PATH
 
 
 def num_words(text):
