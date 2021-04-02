@@ -1,4 +1,4 @@
-CapsRater + FeatureCapture Model
+**CapsRater + FeatureCapture Model**
 
 Install Python 3.6
 
