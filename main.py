@@ -11,7 +11,7 @@ from features import *
 from model import *
 from loss import cross_entropy
 from data import get_data, BatchGenerator
-from scoring import *
+from eval import *
 
 parser = argparse.ArgumentParser()
 
